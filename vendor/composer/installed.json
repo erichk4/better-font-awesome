@@ -1,0 +1,35 @@
+{
+    "packages": [
+        {
+            "name": "mickey-kay/better-font-awesome-library",
+            "version": "2.0.1",
+            "version_normalized": "2.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MickeyKay/better-font-awesome-library.git",
+                "reference": "f9e4bb32c4d7c02d0e44a473873fddd40feefebf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MickeyKay/better-font-awesome-library/zipball/f9e4bb32c4d7c02d0e44a473873fddd40feefebf",
+                "reference": "f9e4bb32c4d7c02d0e44a473873fddd40feefebf",
+                "shasum": ""
+            },
+            "time": "2021-03-11T05:16:28+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "Better Font Awesome Library for WordPress",
+            "support": {
+                "issues": "https://github.com/MickeyKay/better-font-awesome-library/issues",
+                "source": "https://github.com/MickeyKay/better-font-awesome-library/tree/2.0.1"
+            },
+            "install-path": "../mickey-kay/better-font-awesome-library"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
