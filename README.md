@@ -113,6 +113,9 @@ Better Font Awesome does it's best to load after any existing Font Awesome CSS, 
 
 ## Changelog ##
 
+### 2.0.2 ###
+* FIX Cross-Site Request Forgery (CSRF) https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-37405
+
 ### 2.0.1 ###
 * Bugfix: add necessary @font-face mappings to ensure site-specific CSS and pseudo-elements render correctly
 
